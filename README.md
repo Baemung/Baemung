@@ -2,7 +2,20 @@
 **Baemung/Baemung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### `SSAFY 6th 👨‍💻 `
+## Baemungyu 👨‍💻
+
+<div>
+  
+**`AJOU UNIV` : ~ 20. 02**
+ 
+**`KOSTA IoT` : 20. 03 ~ 20. 07**
+ 
+**`SSAFY 6TH` : 20. 07 ~ Now**
+
+</div> 
+
+---
+
 <div>
   
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
