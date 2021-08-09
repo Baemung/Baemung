@@ -3,17 +3,6 @@
 -->
 
 ## Baemungyu 👨‍💻
-
-<div>
-  
-**`AJOU UNIV` : ~ 20. 02**
- 
-**`KOSTA IoT` : 20. 03 ~ 20. 07**
- 
-**`SSAFY 6TH` : 20. 07 ~ Now**
-
-</div> 
-
 ---
 
 <div>
