@@ -20,13 +20,14 @@
 
 </div>
 
+[![Baemung's github stats](https://github-readme-stats.vercel.app/api?username=Baemung)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bae_mung)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
 
-[![Baemung's github stats](https://github-readme-stats.vercel.app/api?username=Baemung)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   
