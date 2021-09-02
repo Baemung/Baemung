@@ -2,8 +2,8 @@
 **Baemung/Baemung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Bae Mungyu 👨‍💻
-### Study in SSAFY
+# Bae Mungyu
+### Study in SSAFY 👨‍💻
 <div>
   
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
