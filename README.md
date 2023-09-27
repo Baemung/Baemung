@@ -3,7 +3,7 @@
 -->
 
 # Bae Mungyu
-### Study in SSAFY 👨‍💻
+### Working at Samsung Electronics Co.👨‍💻
 <div>
   
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
